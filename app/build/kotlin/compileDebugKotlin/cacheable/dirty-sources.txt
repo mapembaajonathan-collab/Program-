@@ -1,0 +1,1 @@
+/data/data/com.termux/files/home/projects/Program-/app/src/main/java/com/mobland/nova/MainActivity.kt
